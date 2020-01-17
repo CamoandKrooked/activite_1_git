@@ -1,0 +1,7 @@
+Bonjour,
+
+Si vous souhaitez jouer au jeu du labyrinthe :
+- Décompressez le dossier carte, et laisser le dans le même dossier que fonctions.py et Main.py
+- Créez également un fichier texte vide nommé init.py
+
+PS : Je travaille encore dessus, soyez indulgent ;)
